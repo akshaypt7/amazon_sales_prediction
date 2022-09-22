@@ -1,5 +1,5 @@
 # amazon_sales_prediction
-We are trying to predict future sales of products  from amazon to improve the inventory performance. 
+We are trying to predict future sales of products  in amazon to improve the inventory performance. 
 
 
 We have gathered the data from 2019 to 2020 April for a particular seller account in Amazon. 
